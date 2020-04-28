@@ -1,0 +1,5 @@
+/* @charset "utf-8";
+
+#main .navbar { background-color: aqua; width: 768px; margin: 0 auto; height: 100px; }
+#main .navbar ul { border: 1px solid red; height: 100%; }
+#main ul li { display: inline-block; background-color: goldenrod; width: 2.56%; } */
